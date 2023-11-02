@@ -1,4 +1,3 @@
 # projectPortal_JS
-# portalProject
-# portalProject
-# portalProject_JS
+
+This is where you will find projects to showcase my talents!
